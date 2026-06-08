@@ -1,5 +1,6 @@
 package src.main.java;
 
+// test sonarcloud
 public class Counter {
 
 	private int count;
