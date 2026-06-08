@@ -1,6 +1,7 @@
 package src.main.java;
 
 // comment for deployment test
+// comment for deployement test 2
 public class Counter {
 
 	private int count;
